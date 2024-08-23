@@ -1,0 +1,51 @@
+# Python
+*.pyc
+__pycache__/
+
+# History
+.history
+.history/
+*.history
+*.history/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Django
+db.sqlite3
+migrations/
+
+# Environment Variables
+.env
+.env.*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.pot
+*.pyo
+*.swp
+*.swo
+*.bak
+
+# Static and Media Files
+staticfiles/
+media/
+
+# Docker
+
+docker-compose.override.yml
